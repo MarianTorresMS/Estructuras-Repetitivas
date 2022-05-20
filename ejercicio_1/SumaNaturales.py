@@ -1,4 +1,5 @@
-""" Calcular la suma de los N primeros números
+"""Ejercicio No. 1
+Programa para calcular la suma de los N primeros números
 naturales"""
 
 suma= 0
